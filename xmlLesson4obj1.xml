@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE Employees>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Employees.xsd">
+ <Employee>
+ <First>John</First>
+ <Last>Smith</Last>
+  <Phone>1-800-123-4567</Phone>
+ </Employee>
+  <Employee>
+ <First>Alexandra</First>
+ <Last>Borodin</Last>
+  <Phone>1-800-123-4567</Phone>
+ </Employee>
+</Employees>
+
